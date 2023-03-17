@@ -2,5 +2,6 @@
 Meus Primeiros Projetos DIO
 Desafio Git/GitHub
 
-##Linkis úteis 
+## Links úteis 
 [Sintaxe_Basica_Markdown](https://www.markdownguide.org/)
+[Download_Git](https://git-scm.com/downloads)
