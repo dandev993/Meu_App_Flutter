@@ -1,7 +1,5 @@
-# meuappdart
+# meu_app_flutter
 Meus Primeiros Projetos DIO
-Desafio Git/GitHub
+Desenvolvimento do meu primeiro projeto em Flutter.
 
-## Links úteis 
-[Sintaxe_Basica_Markdown](https://www.markdownguide.org/)
-[Download_Git](https://git-scm.com/downloads)
+
